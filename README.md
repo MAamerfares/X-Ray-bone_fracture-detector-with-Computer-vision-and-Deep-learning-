@@ -1,5 +1,5 @@
 # Bone Fracture Detection using Deep Learning
-https://drive.google.com/drive/folders/1I_FCjXh80cHMuIyCukaA5GiM_fofXavA?usp=drive_link
+
 This project utilizes a deep learning model to detect and classify bone fractures from X-ray images. The model is built with TensorFlow and Keras and employs a modern object detection architecture to identify the location and type of fracture.
 
 ## Table of Contents
